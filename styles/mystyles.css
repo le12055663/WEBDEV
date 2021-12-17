@@ -1,0 +1,54 @@
+/*!Edited by Evie Larson on December 14, 2021*/
+body{
+    font-family: fantasy;
+}
+a{
+    color:turquoise;
+}
+h2{
+    color: slateblue;
+}
+h1{
+    font-family:fantasy;
+    font-weight: bolder;
+    color: turquoise;  
+}
+span{
+    color: turquoise;
+    font-family: fantasy;
+}   
+.bold{
+    font-weight: bolder;
+}
+.navbar{
+    font-size: xx-large;
+}
+.homeback{
+    background-color: burlywood;
+}
+.costa{
+    size: 100px;
+}
+.handels{
+    size: 100px;
+}
+.vasa{
+    size: 100px;
+}
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.footer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: large;
+    color: rgb(94, 93, 93);
+}
+.content{
+    color: slateblue;
+}
